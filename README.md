@@ -6,7 +6,7 @@ This Repository has all the datasets used in this project and all the code and q
 This project was built using these technologies.
 •	MS SQL Express
 •	Excel
-•	Tableau for visualization (you can check it here)
+•	Tableau for visualization (you can check it here: https://public.tableau.com/app/profile/hamza.najim/viz/Book1_16919408611650/Dashboard1)
 
 # Getting Started
 Clone down the Excel files and import each of them on the SQL server.
